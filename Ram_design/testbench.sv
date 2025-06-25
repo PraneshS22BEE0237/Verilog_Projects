@@ -1,3 +1,9 @@
+//RAM DESIGN 
+//Pranesh S
+//VIT UNIVERSITY , VELLORE
+//file name : RAM_TB
+
+
 module RAM_TB;
     reg clk, we;
     reg [3:0] addr;
