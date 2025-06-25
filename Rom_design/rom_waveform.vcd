@@ -1,0 +1,66 @@
+$date
+Wed Jun 25 11:31:50 2025
+$end
+$version
+Riviera-PRO Version 2023.04.112.8911
+$end
+$timescale
+1 ns
+$end
+
+$scope module ROM_TB $end
+$var wire 8 ! data_out [7:0] $end
+$var reg 4 " addr [3:0] $end
+
+$scope module uut $end
+$var wire 4 # addr [3:0] $end
+$var reg 8 $ data_out [7:0] $end
+$var parameter 32 % DATA_WIDTH [31:0] $end
+$var parameter 32 & ADDR_WIDTH [31:0] $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+b0 !
+b0 "
+b0 #
+b0 $
+b1000 %
+b100 &
+$end
+#10
+b1 "
+b1 #
+b1 $
+b1 !
+#20
+b10 "
+b10 #
+#30
+b11 "
+b11 #
+b10 $
+b10 !
+#40
+b100 "
+b100 #
+b11 $
+b11 !
+#50
+b101 "
+b101 #
+b101 $
+b101 !
+#60
+b110 "
+b110 #
+b1000 $
+b1000 !
+#70
+b111 "
+b111 #
+b1101 $
+b1101 !
+#80
