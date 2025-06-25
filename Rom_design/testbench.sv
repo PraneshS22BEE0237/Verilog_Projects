@@ -1,3 +1,6 @@
+//Pranesh S
+//ROM Design
+
 module ROM_TB;
     reg [3:0] addr;
     wire [7:0] data_out;
