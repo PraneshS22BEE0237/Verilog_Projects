@@ -1,3 +1,7 @@
+//Pranesh S
+//ROM Design
+
+
 module ROM #(
     parameter DATA_WIDTH = 8,
     parameter ADDR_WIDTH = 4  // 2^4 = 16 locations
