@@ -1,0 +1,26 @@
+Riviera-PRO 2023.04.112.8911(Linux64) 2025-06-25 11:51:12
+
+Elaboration top modules:
+Verilog Module                test_Hex_Keypad
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+test_Hex_Keypad         | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Hex_Keypad_Grayhill_072 | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Row_Signal              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Synchronizer            | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
