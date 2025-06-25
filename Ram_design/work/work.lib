@@ -1,0 +1,37 @@
+timestamp=1750862552789
+
+[~A]
+LastVerilogToplevel=RAM_TB
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*603*1401
+
+[~MFT]
+0=5|0work.mgf|1401|0
+1=3|1work.mgf|2231|0
+3=6|3work.mgf|2860|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92169f661c40725b3a730244be9cbed45239
+
+[RAM]
+A/RAM=22|../design.sv|1|1*390
+BinL64/RAM=3*174
+R=../design.sv|1
+SLP=3*1470
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|1344bbc8931e060ac81abb395d743025de91e66104b30e3ea664cf3ad88b29bd
+
+[RAM_TB]
+A/RAM_TB=22|../testbench.sv|1|1*2231
+BinL64/RAM_TB=3*1739
+R=../testbench.sv|1
+SLP=3*2860
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|ed627077b1646065263ad2a8182e1bf6f421f0613ec462b9ee1cae1bdb57a200
+
+[~U]
+$root=12|0*0|
+RAM=12|0*182|
+RAM_TB=12|0*442||0x10
