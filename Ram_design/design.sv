@@ -1,3 +1,10 @@
+//RAM DESIGN 
+//Pranesh S
+//VIT UNIVERSITY , VELLORE
+//file name : RAM
+
+
+
 module RAM #(
     parameter DATA_WIDTH = 8,
     parameter ADDR_WIDTH = 4  // 2^4 = 16 locations
