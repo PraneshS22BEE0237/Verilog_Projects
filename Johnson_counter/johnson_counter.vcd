@@ -1,0 +1,118 @@
+$date
+Thu Jun 26 11:07:38 2025
+$end
+$version
+Riviera-PRO Version 2023.04.112.8911
+$end
+$timescale
+1 ns
+$end
+
+$scope module tb_johnson_counter $end
+$var wire 4 ! q [3:0] $end
+$var reg 1 " clk $end
+$var reg 1 # reset $end
+
+$scope module uut $end
+$var wire 1 $ clk $end
+$var wire 1 % reset $end
+$var reg 4 & q [3:0] $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+b0 !
+0"
+1#
+0$
+1%
+b0 &
+$end
+#5
+1"
+1$
+#10
+0#
+0"
+0$
+0%
+#15
+1"
+1$
+b1000 &
+b1000 !
+#20
+0"
+0$
+#25
+1"
+1$
+b1100 &
+b1100 !
+#30
+0"
+0$
+#35
+1"
+1$
+b1110 &
+b1110 !
+#40
+0"
+0$
+#45
+1"
+1$
+b1111 &
+b1111 !
+#50
+0"
+0$
+#55
+1"
+1$
+b111 &
+b111 !
+#60
+0"
+0$
+#65
+1"
+1$
+b11 &
+b11 !
+#70
+0"
+0$
+#75
+1"
+1$
+b1 &
+b1 !
+#80
+0"
+0$
+#85
+1"
+1$
+b0 &
+b0 !
+#90
+0"
+0$
+#95
+1"
+1$
+b1000 &
+b1000 !
+#100
+0"
+0$
+#105
+1"
+1$
+b1100 &
+b1100 !
+#110

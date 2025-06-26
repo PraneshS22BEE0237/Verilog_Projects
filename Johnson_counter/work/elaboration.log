@@ -1,0 +1,24 @@
+Riviera-PRO 2023.04.112.8911(Linux64) 2025-06-26 11:07:38
+
+Elaboration top modules:
+Verilog Module                tb_johnson_counter
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+tb_johnson_counter      | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+johnson_counter         | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
