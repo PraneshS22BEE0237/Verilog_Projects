@@ -1,0 +1,163 @@
+$date
+Tue Jul  1 13:16:07 2025
+$end
+$version
+Riviera-PRO Version 2023.04.112.8911
+$end
+$timescale
+1 ps
+$end
+
+$scope module tb_ripple_carry $end
+$var wire 1 ! sum [3] $end
+$var wire 1 " sum [2] $end
+$var wire 1 # sum [1] $end
+$var wire 1 $ sum [0] $end
+$var wire 1 % carry $end
+$var reg 4 & a [3:0] $end
+$var reg 4 ' b [3:0] $end
+$var reg 1 ( cin $end
+
+$scope module uut $end
+$var wire 1 ) a [3] $end
+$var wire 1 * a [2] $end
+$var wire 1 + a [1] $end
+$var wire 1 , a [0] $end
+$var wire 1 - b [3] $end
+$var wire 1 . b [2] $end
+$var wire 1 / b [1] $end
+$var wire 1 0 b [0] $end
+$var wire 1 1 cin $end
+$var wire 1 ! sum [3] $end
+$var wire 1 " sum [2] $end
+$var wire 1 # sum [1] $end
+$var wire 1 $ sum [0] $end
+$var wire 1 % carry $end
+$var wire 1 2 c [3] $end
+$var wire 1 3 c [2] $end
+$var wire 1 4 c [1] $end
+$var wire 1 5 c [0] $end
+
+$scope module fa0 $end
+$var wire 1 , a $end
+$var wire 1 0 b $end
+$var wire 1 1 cin $end
+$var wire 1 $ sum $end
+$var wire 1 5 cout $end
+$upscope $end
+
+
+$scope module fa1 $end
+$var wire 1 + a $end
+$var wire 1 / b $end
+$var wire 1 5 cin $end
+$var wire 1 # sum $end
+$var wire 1 4 cout $end
+$upscope $end
+
+
+$scope module fa2 $end
+$var wire 1 * a $end
+$var wire 1 . b $end
+$var wire 1 4 cin $end
+$var wire 1 " sum $end
+$var wire 1 3 cout $end
+$upscope $end
+
+
+$scope module fa3 $end
+$var wire 1 ) a $end
+$var wire 1 - b $end
+$var wire 1 3 cin $end
+$var wire 1 ! sum $end
+$var wire 1 % cout $end
+$upscope $end
+
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+b0 &
+b0 '
+0(
+0)
+0*
+0+
+0,
+0-
+0.
+0/
+00
+01
+z2
+03
+04
+05
+$end
+#100000
+b101 '
+1.
+10
+1"
+1$
+#110000
+b110 &
+1(
+11
+1*
+1+
+0"
+1#
+0$
+13
+15
+14
+1!
+0#
+1"
+#120000
+b1111 '
+0(
+01
+1-
+1/
+0!
+1#
+1$
+1%
+05
+0#
+#130000
+b1111 &
+1(
+11
+1)
+1,
+1!
+15
+1#
+#140000
+b1000 &
+b111 '
+0(
+01
+0-
+0*
+0+
+0,
+05
+0!
+0"
+04
+03
+1"
+0%
+1!
+#150000
