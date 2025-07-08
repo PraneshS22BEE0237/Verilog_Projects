@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project implements a **Digital Voting Machine** using SystemVerilog, designed as a finite state machine (FSM) to handle electronic voting processes. The system provides secure, reliable, and efficient vote counting for three candidates with built-in debouncing and state management.
+This project implements a **Digital Voting Machine** using SystemVerilog, designed as a finite state machine (FSM) to handle electronic voting processes. The system provides secure, reliable, and efficient vote counting for three candidates with built-in debouncing and state management
 
 **Author:** Pranesh S  
 **Institution:** VIT University, Vellore  
