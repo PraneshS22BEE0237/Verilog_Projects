@@ -201,18 +201,3 @@ Sample voting sequence from testbench:
 - **Power Consumption**: Depends on implementation technology
 - **Area**: Minimal resource utilization
 
-## 📞 Support and Contact
-
-For questions, suggestions, or contributions:
-
-- **Author**: Pranesh S
-- **Institution**: VIT University, Vellore
-- **Project Type**: Academic/Educational
-
-## 📄 License
-
-This project is developed for educational purposes. Feel free to use and modify for learning and non-commercial applications.
-
----
-
-*This README provides comprehensive documentation for the Digital Voting Machine project. For technical details, refer to the source code comments and simulation results.*
