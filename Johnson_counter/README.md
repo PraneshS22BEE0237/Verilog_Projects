@@ -37,7 +37,7 @@ The Johnson counter follows this sequence:
 | 7           | 1  | 0  | 0  | 0  | 8       |
 | 8           | 0  | 0  | 0  | 0  | 0       |
 
-**Note:** The sequence repeats every 8 clock cycles, providing **8 unique states** instead of 16 states that a normal 4-bit counter would have.
+**Note:** The sequence repeats every 8 clock cycles, providing **8 unique states** instead of 16 states that a normal 4-bit counter would have
 
 ## State Transition Diagram
 
