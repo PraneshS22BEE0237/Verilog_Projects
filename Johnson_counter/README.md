@@ -136,5 +136,5 @@ Johnson counters are widely used in:
 4. **LED Chasers**: Creating running light effects
 5. **Address Generation**: For memory access patterns
 6. **Digital Clocks**: As frequency dividers
-7. **Control Circuits**: For timing sequences
+7. **Control Circuits**: For timing sequence
 
