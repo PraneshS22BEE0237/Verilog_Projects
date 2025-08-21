@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Simulation](https://img.shields.io/badge/Simulation-Verified-success.svg)](hex_keypad_waveform.vcd)
 
-> **A comprehensive SystemVerilog implementation of a 4×4 hexadecimal keypad controller with Grayhill 072 interface compatibility.**
+> **A comprehensive SystemVerilog implementation of a 4×4 hexadecimal keypad controller with Grayhill 072 interface compatibility**
 
 ## 📋 Table of Contents
 
