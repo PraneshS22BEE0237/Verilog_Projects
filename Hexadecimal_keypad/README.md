@@ -216,7 +216,7 @@ Hexadecimal_keypad/
 The testbench systematically tests all 16 keys (0-F) with the following sequence:
 
 1. **Initialization**: System reset and clock setup
-2. **Sequential Testing**: Each key pressed for 60ns, released for 20ns
+2. **Sequential Testing**: Each key pressed for 60ns, released for 20ns.
 3. **Validation**: `Valid` signal assertion and correct `Code` output
 4. **Waveform Generation**: Complete timing diagram in VCD format
 
