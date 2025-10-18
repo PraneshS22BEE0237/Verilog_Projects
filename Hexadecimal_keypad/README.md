@@ -191,7 +191,7 @@ Hexadecimal_keypad/
 
 2. **Run simulation**
    ```bash
-   # On Unix/Linux systems
+   # On Unix/Linux system
    ./run.sh
    
    # On Windows (if using bash)
