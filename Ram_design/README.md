@@ -146,7 +146,7 @@ end
 
 ### 2. Address Decoding Logic
 
-The address decoder ensures that only valid memory locations are accessed:
+The address decoder ensures that only valid memory locations are accessed
 
 ```verilog
 // Address validation
