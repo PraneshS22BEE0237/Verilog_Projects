@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project implements a **Static Random Access Memory (SRAM)** module using Verilog HDL. The design features a synchronous read/write memory array with configurable word width and memory depth, implementing industry-standard memory interface protocols
+This project implements a **Static Random Access Memory (SRAM)** module using Verilog HDL. The design features a synchronous read/write memory array with configurable word width and memory depth, implementing industry-standard memory interface protocols............
 
 **Author:** Pranesh S  
 **Institution:** VIT University, Vellore  
