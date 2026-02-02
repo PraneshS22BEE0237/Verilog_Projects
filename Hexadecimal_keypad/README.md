@@ -24,10 +24,6 @@
 
 This project implements a robust hexadecimal keypad controller designed in SystemVerilog for VLSI applications. The design features a sophisticated state machine-based approach to handle 4×4 matrix keypad scanning, debouncing, and key code generation compatible with Grayhill 072 interface standards.
 
-
-
-
-
 ### Key Highlights
 
 - ✅ **State Machine Design**: Six-state FSM with one-hot encoding
