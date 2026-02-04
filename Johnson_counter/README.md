@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This project implements a **4-bit Johnson Counter** (also known as a **Ring Counter** or **Twisted Ring Counter**) using SystemVerilog. A Johnson counter is a special type of shift register where the output of the last flip-flop is inverted and fed back to the input of the first flip-flop. This creates a unique counting sequence that provides 2n states for an n-bit counter, making it useful in various digital application.
+This project implements a **4-bit Johnson Counter** (also known as a **Ring Counter** or **Twisted Ring Counter**) using SystemVerilog. A Johnson counter is a special type of shift register where the output of the last flip-flop is inverted and fed back to the input of the first flip-flop. This creates a unique counting sequence that provides 2n states for an n-bit counter, making it useful in various digital application
+
 
 **Author:** Pranesh S
 
